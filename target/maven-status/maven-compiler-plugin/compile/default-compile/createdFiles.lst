@@ -1,0 +1,8 @@
+com\benchmark\pages\elements\LoginPageElementsORR.class
+com\benchmark\common\BaseHelper.class
+com\benchmarkpages\operations\LoginPageOperationORR.class
+com\benchmark\pages\LoginPageORR.class
+com\benchmark\pages\elements\HomePageElements.class
+com\benchmarkpages\operations\BasePageOperations.class
+com\benchmark\pages\elements\PageHeaderAndMenuElements.class
+com\benchmarkpages\operations\HomePageOperations.class

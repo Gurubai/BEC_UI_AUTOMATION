@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="methods">
+  <test thread-count="1" name="Test(failed)" parallel="methods">
+    <classes>
+      <class name="com.benchmark.testcases.home.VerifyOralReadingRecordReportsORR">
+        <methods>
+          <include name="verifyRHO_TC3"/>
+          <include name="afterClass"/>
+          <include name="beforeMethod"/>
+          <include name="beforeClass"/>
+          <include name="verifyRLP_TC2"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.benchmark.testcases.home.VerifyOralReadingRecordReportsORR -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

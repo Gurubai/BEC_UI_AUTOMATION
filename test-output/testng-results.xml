@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[1---->>>>Reach to ORR Functionality :true]]>
+    </line>
+    <line>
+      <![CDATA[***********Defult value for filter validation***************]]>
+    </line>
+    <line>
+      <![CDATA[By defult Instructional is selected :true]]>
+    </line>
+    <line>
+      <![CDATA[By defult English is selected :true]]>
+    </line>
+    <line>
+      <![CDATA[By defult Fiction is selected :true]]>
+    </line>
+    <line>
+      <![CDATA[By defult Nonfiction is selected :true]]>
+    </line>
+    <line>
+      <![CDATA[By defult Unseen is selected :true]]>
+    </line>
+    <line>
+      <![CDATA[***********All values in filter Ribbon validation***************]]>
+    </line>
+    <line>
+      <![CDATA[After applying all fiter Instructional is visible in Ribbon :true]]>
+    </line>
+    <line>
+      <![CDATA[After applying all fiter English is visible in Ribbon :true]]>
+    </line>
+    <line>
+      <![CDATA[After applying all fiter Fiction is visible in Ribbon :true]]>
+    </line>
+    <line>
+      <![CDATA[After applying all fiter Nonfiction is visible in Ribbon :true]]>
+    </line>
+    <line>
+      <![CDATA[After applying all fiter Unseen is visible in Ribbon :true]]>
+    </line>
+    <line>
+      <![CDATA[After applying all fiter Independent is visible in Ribbon :true]]>
+    </line>
+    <line>
+      <![CDATA[After applying all fiter Frustrational is visible in Ribbon :true]]>
+    </line>
+    <line>
+      <![CDATA[After applying all fiter Spanish is visible in Ribbon :true]]>
+    </line>
+    <line>
+      <![CDATA[After applying all fiter Seen is visible in Ribbon :true]]>
+    </line>
+    <line>
+      <![CDATA[1---->>>>Filter Functionality :true]]>
+    </line>
+    <line>
+      <![CDATA[2---->>>>Reach to ORR Functionality :true]]>
+    </line>
+    <line>
+      <![CDATA[3---->>>>Reading Level Progress Functionality :true]]>
+    </line>
+  </reporter-output>
+  <suite name="READINGLEVELPROGRESS" duration-ms="26786" started-at="2019-06-04T07:28:55Z" finished-at="2019-06-04T07:29:22Z">
+    <groups>
+    </groups>
+    <test name="READINGLEVELPROGRESS" duration-ms="26786" started-at="2019-06-04T07:28:55Z" finished-at="2019-06-04T07:29:22Z">
+      <class name="com.benchmark.testcases.RLP.VerifyFilterFunctionalities">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.benchmark.testcases.RLP.VerifyFilterFunctionalities@79ab3a71]" name="beforeClass" is-config="true" duration-ms="1464" started-at="2019-06-04T07:28:55Z" finished-at="2019-06-04T07:28:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.benchmark.testcases.RLP.VerifyFilterFunctionalities@79ab3a71]" name="beforeMethod" is-config="true" duration-ms="4011" started-at="2019-06-04T07:28:57Z" finished-at="2019-06-04T07:29:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyFilter_TC1()[pri:0, instance:com.benchmark.testcases.RLP.VerifyFilterFunctionalities@79ab3a71]" name="verifyFilter_TC1" duration-ms="2690" started-at="2019-06-04T07:29:01Z" description="Validate ORR" finished-at="2019-06-04T07:29:03Z">
+          <reporter-output>
+            <line>
+              <![CDATA[1---->>>>Reach to ORR Functionality :true]]>
+            </line>
+            <line>
+              <![CDATA[***********Defult value for filter validation***************]]>
+            </line>
+            <line>
+              <![CDATA[By defult Instructional is selected :true]]>
+            </line>
+            <line>
+              <![CDATA[By defult English is selected :true]]>
+            </line>
+            <line>
+              <![CDATA[By defult Fiction is selected :true]]>
+            </line>
+            <line>
+              <![CDATA[By defult Nonfiction is selected :true]]>
+            </line>
+            <line>
+              <![CDATA[By defult Unseen is selected :true]]>
+            </line>
+            <line>
+              <![CDATA[***********All values in filter Ribbon validation***************]]>
+            </line>
+            <line>
+              <![CDATA[After applying all fiter Instructional is visible in Ribbon :true]]>
+            </line>
+            <line>
+              <![CDATA[After applying all fiter English is visible in Ribbon :true]]>
+            </line>
+            <line>
+              <![CDATA[After applying all fiter Fiction is visible in Ribbon :true]]>
+            </line>
+            <line>
+              <![CDATA[After applying all fiter Nonfiction is visible in Ribbon :true]]>
+            </line>
+            <line>
+              <![CDATA[After applying all fiter Unseen is visible in Ribbon :true]]>
+            </line>
+            <line>
+              <![CDATA[After applying all fiter Independent is visible in Ribbon :true]]>
+            </line>
+            <line>
+              <![CDATA[After applying all fiter Frustrational is visible in Ribbon :true]]>
+            </line>
+            <line>
+              <![CDATA[After applying all fiter Spanish is visible in Ribbon :true]]>
+            </line>
+            <line>
+              <![CDATA[After applying all fiter Seen is visible in Ribbon :true]]>
+            </line>
+            <line>
+              <![CDATA[1---->>>>Filter Functionality :true]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyFilter_TC1 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.benchmark.testcases.RLP.VerifyFilterFunctionalities@79ab3a71]" name="afterMethod" is-config="true" duration-ms="3063" started-at="2019-06-04T07:29:03Z" finished-at="2019-06-04T07:29:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.benchmark.testcases.RLP.VerifyFilterFunctionalities@79ab3a71]" name="afterClass" is-config="true" duration-ms="1594" started-at="2019-06-04T07:29:06Z" finished-at="2019-06-04T07:29:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.benchmark.testcases.RLP.VerifyFilterFunctionalities -->
+      <class name="com.benchmark.testcases.RLP.VerifyRLPChartValidation">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.benchmark.testcases.RLP.VerifyRLPChartValidation@6e5bfdfc]" name="beforeClass" is-config="true" duration-ms="1527" started-at="2019-06-04T07:29:08Z" finished-at="2019-06-04T07:29:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.benchmark.testcases.RLP.VerifyRLPChartValidation@6e5bfdfc]" name="beforeMethod" is-config="true" duration-ms="4005" started-at="2019-06-04T07:29:10Z" finished-at="2019-06-04T07:29:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyRLP_TC2()[pri:0, instance:com.benchmark.testcases.RLP.VerifyRLPChartValidation@6e5bfdfc]" name="verifyRLP_TC2" duration-ms="3945" started-at="2019-06-04T07:29:14Z" description="Validate Reading Level Progress " finished-at="2019-06-04T07:29:18Z">
+          <reporter-output>
+            <line>
+              <![CDATA[2---->>>>Reach to ORR Functionality :true]]>
+            </line>
+            <line>
+              <![CDATA[3---->>>>Reading Level Progress Functionality :true]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyRLP_TC2 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.benchmark.testcases.RLP.VerifyRLPChartValidation@6e5bfdfc]" name="afterMethod" is-config="true" duration-ms="3456" started-at="2019-06-04T07:29:18Z" finished-at="2019-06-04T07:29:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.benchmark.testcases.RLP.VerifyRLPChartValidation@6e5bfdfc]" name="afterClass" is-config="true" duration-ms="1013" started-at="2019-06-04T07:29:21Z" finished-at="2019-06-04T07:29:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.benchmark.testcases.RLP.VerifyRLPChartValidation -->
+    </test> <!-- READINGLEVELPROGRESS -->
+  </suite> <!-- READINGLEVELPROGRESS -->
+</testng-results>

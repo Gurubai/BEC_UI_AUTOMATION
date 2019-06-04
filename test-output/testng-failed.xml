@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="10" verbose="2" name="Failed suite [READINGLEVELPROGRESS]">
+  <test thread-count="10" verbose="2" name="READINGLEVELPROGRESS(failed)">
+    <classes>
+      <class name="com.benchmark.testcases.RLP.VerifyRLPChartValidation">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeMethod"/>
+          <include name="beforeClass"/>
+          <include name="verifyRLP_TC2"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.benchmark.testcases.RLP.VerifyRLPChartValidation -->
+    </classes>
+  </test> <!-- READINGLEVELPROGRESS(failed) -->
+</suite> <!-- Failed suite [READINGLEVELPROGRESS] -->
